@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47653699917",
+    "project_id": "hotel-mitra-new",
+    "storage_bucket": "hotel-mitra-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47653699917:android:156ebb3f5c513dcbb7f704",
+        "android_client_info": {
+          "package_name": "com.example.hostel_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpL1ImxA-rBmVVOPdFoxz_UDGwH7YsYvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
